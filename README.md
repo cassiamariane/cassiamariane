@@ -1,4 +1,4 @@
-## ✨Olá!✨
+## ✨Olá, Eu sou a Cássia!✨
 <div>
   <a href="https://github.com/cassiamariane">
   <img height="157em" src="https://github-readme-stats.vercel.app/api?username=cassiamariane&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
