@@ -1,5 +1,5 @@
 ## ✨Olá, eu sou a Cássia!✨
-Sejam bem-vindos ao meu repositório GitHub =)
+Sejam bem-vindos ao meu portfólio GitHub =)
 <div>
   <a href="https://github.com/cassiamariane">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=cassiamariane&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
