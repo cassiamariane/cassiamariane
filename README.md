@@ -1,11 +1,14 @@
 # ✨Olá, eu sou a Cássia!✨
+
 ## Sobre mim
 - 🎓 Estudando Sistemas de Informação na UFRRJ
 - 💼 Trabalhando como Desenvolvedora FullStack Júnior
 - 🌱 Aprendendo mais sobre Ciência de Dados e aprimorando continuamente minhas skills
+  
 ## Contato
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cassiamariane/)](https://www.linkedin.com/in/cassiamariane/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:cassiamariane01@gmail.com)
+
 ## Contribuições
 <div>
   <a href="https://github.com/cassiamariane">
@@ -14,8 +17,7 @@
 </div>
   
 ## Principais Skills
-
  <div>
    <a href="https://github.com/cassiamariane">
-   <img src="https://skillicons.dev/icons?i=py,flask,mysql,ts,aws,docker,figma,vue)](https://skillicons.dev"/>
+   <img src="https://skillicons.dev/icons?i=py,flask,mysql,ts,aws,docker,figma,vue"/>
  </div>
