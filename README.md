@@ -2,8 +2,8 @@
 
 ## Sobre mim
 - 🎓 Estudando Sistemas de Informação na UFRRJ
-- 💼 Trabalhando como Desenvolvedora FullStack Júnior
-- 🌱 Aprendendo mais sobre Ciência de Dados e aprimorando continuamente minhas skills
+- 💼 Trabalhando como Estagiária de Análise de Dados
+- 🌱 Aprendendo mais sobre Análise e Ciência de Dados e aprimorando continuamente minhas skills
   
 ## Contato
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cassiamariane/)](https://www.linkedin.com/in/cassiamariane/)
